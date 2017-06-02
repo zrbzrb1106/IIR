@@ -186,6 +186,7 @@ float tp(float x[int], float coeff0[int][int], float state0[int][int], int ans[]
 	int j = 0;
 	float w0[];
 	float w1[];
+	float w2[];
 	for(i=1; i<len; i++)
 	{
 	
