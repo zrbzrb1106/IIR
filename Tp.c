@@ -182,11 +182,7 @@ float tp(float x[int], float coeff0[int][int], float state0[int][int], int ans[]
 	float w0;
 	float y;
 	int len = 100;
-	int i = 0;
-	int j = 0;
-	float w0[];
-	float w1[];
-	float w2[];
+	int sum = 0;
 	for(i=1; i<len; i++)
 	{
 	
